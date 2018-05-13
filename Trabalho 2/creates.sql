@@ -34,6 +34,10 @@ create table xocorrencias_tab of xocorrencias_t (
 create type xocorrencias_tab_t as table of xocorrencias_t;
 /
 
+/*
+create type xocorrencias_tab_t as table of ref xocorrencias_t;
+/*/
+
 /* 5º */
 
 alter type xucs_t ADD ATTRIBUTE ocorrencias xocorrencias_tab_t cascade;
@@ -70,6 +74,9 @@ create table xtiposaula_tab of xtiposaula_t (
 
 create type xtiposaula_tab_t as table of xtiposaula_t;
 /
+
+/*create type xtiposaula_tab_t as table of ref xtiposaula_t;
+/*/
 
 /* 10º */
 
