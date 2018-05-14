@@ -23,15 +23,12 @@ create type xocorrencias_t as object (
 
 /* 3º */
 
-create table xocorrencias_tab of xocorrencias_t (
-    ano_letivo not null,
-    periodo not null
-);
+create table xocorrencias_tab of xocorrencias_t;
 /
 
 /* 4º */
 
-create type xocorrencias_tab_t as table of xocorrencias_t;
+create type xocorrencias_tab_t as table of ref xocorrencias_t;
 /
 
 /*
@@ -45,10 +42,7 @@ alter type xucs_t ADD ATTRIBUTE ocorrencias xocorrencias_tab_t cascade;
 
 /* 6º */
 
-create table xucs_tab of xucs_t(
-    codigo primary key,
-    designacao not null
-)
+create table xucs_tab of xucs_t
     nested table ocorrencias store as xocorrencias_nt;
 /
 
@@ -65,9 +59,7 @@ create type xtiposaula_t as object (
 
 /* 8º */
 
-create table xtiposaula_tab of xtiposaula_t (
-    id primary key
-);
+create table xtiposaula_tab of xtiposaula_t;
 /
 
 /* 9º */
@@ -93,9 +85,7 @@ create type xdsd_t as object (
 /
 
 /* 12º */
-create table xdsd_tab of xdsd_t(
-    horas not null
-)
+create table xdsd_tab of xdsd_t   
     nested TABLE tiposaula STORE as xtiposaula_nt;
 /
 
@@ -119,12 +109,7 @@ create type xdocentes_t as object(
 
 /* 15º */
 
-create table xdocentes_tab of xdocentes_t(
-    nr primary key,
-    nome not null,
-    sigla not null,
-    estado not null
-);
+create table xdocentes_tab of xdocentes_t;
 /
 
 /* 16º */
