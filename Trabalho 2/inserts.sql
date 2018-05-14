@@ -26,7 +26,7 @@ on (o.ano_letivo = GTD10.xtiposaula.ano_letivo
 
 update xucs_tab u
 set u.ocorrencias = cast(multiset(
-    select oco.*
+    select ref(oco)
     from xocorrencias_tab oco
     where oco.xucs.codigo = u.codigo) as xocorrencias_tab_t);
 /*
@@ -39,15 +39,19 @@ set u.ocorrencias = cast(multiset(
 
 
 insert into xdsd_tab (horas, fator, ordem, docentes, tiposaula)
-select horas, fator, ordem, ref(doc), cast(multiset(
+select horas, fator, ordem, ref(doc), cast(multiset((
     select ref(t)
     from xtiposaula_tab t
     join xdsd d
-    on d.id = t.id) as xtiposaula_tab_t)
-from GTD10.xdsd
+    on d.id = t.id)) as xtiposaula_tab_t)
+from GTD10.XDSD
 join xdocentes_tab doc
 on doc.nr = GTD10.xdsd.nr;
 
+select t.*
+    from xtiposaula_tab t
+    join xdsd d
+    on d.id = t.id;
 /*
 insert into xdsd_tab (horas, fator, ordem, docentes, tiposaula)
 select horas, fator, ordem, tiposaula, ref(doc), cast(multiset(

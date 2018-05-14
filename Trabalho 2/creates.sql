@@ -64,7 +64,7 @@ create table xtiposaula_tab of xtiposaula_t;
 
 /* 9º */
 
-create type xtiposaula_tab_t as table of xtiposaula_t;
+create type xtiposaula_tab_t as table of ref xtiposaula_t;
 /
 
 /*create type xtiposaula_tab_t as table of ref xtiposaula_t;
