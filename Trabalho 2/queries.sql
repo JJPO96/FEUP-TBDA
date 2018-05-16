@@ -27,6 +27,12 @@ where d.tiposaula.ano_letivo = '2003/2004';
 
 -- d)
 
+-- Para confirmar
+-- select d.docentes.nome as professor, d.tiposaula.ano_letivo as ano_letivo, d.docentes.categoria as categoria, round(avg(d.horas), 2) as average_number_hours
+-- from xdsd_tab d
+-- where regexp_like (d.tiposaula.ano_letivo, '^200[1-4]')
+-- group by d.docentes.nome, d.docentes.categoria, d.tiposaula.ano_letivo;
+
 -- e)
 
 select d.tiposaula.periodo, d.tiposaula.ano_letivo, sum(d.horas)
