@@ -5,15 +5,27 @@
 
 -- a)
 
--- Sinceramente, esta porcaria das horas não faz sentido algum. O que é que é o quê? Pisses!
-select ta.tipo, sum(ta.horas_turno * ta.n_aulas * ta.turnos) -- Not sure about this
+select ta.tipo, sum(ta.horas_turno * ta.turnos) as class_hours
 from xtiposaula_tab ta
-join xucs_tab ucs
-on ta.ocorrencias.codigo = ucs.codigo
-where ucs.curso = 233
+where ta.ocorrencias.ucs.curso = 233
     and ta.ano_letivo = '2004/2005'
 group by ta.tipo;
 
-
 -- b)
 
+select d.tiposaula.codigo, sum(d.tiposaula.horas_turno * d.tiposaula.turnos) as total_required_class_hours, sum(d.horas) as total_assigned_hours
+from xdsd_tab d
+where d.tiposaula.ano_letivo = '2003/2004'
+group by (d.tiposaula.codigo)
+having sum(d.tiposaula.horas_turno * d.tiposaula.turnos) <> sum(d.horas);
+
+-- c)
+
+-- d)
+
+-- e)
+
+select d.tiposaula.periodo, d.tiposaula.ano_letivo, sum(d.horas)
+from xdsd_tab d
+where d.tiposaula.periodo like '%S'
+group by (d.tiposaula.periodo, d.tiposaula.ano_letivo);
