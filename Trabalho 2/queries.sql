@@ -20,6 +20,10 @@ group by (d.tiposaula.codigo)
 having sum(d.tiposaula.horas_turno * d.tiposaula.turnos) <> sum(d.horas);
 
 -- c)
+select d.docentes.nr, d.docentes.nome, d.tiposaula.tipo/*, sum(d.horas * d.fator) as total_assigned_hours*/
+from xdsd_tab d 
+where d.tiposaula.ano_letivo = '2003/2004';
+
 
 -- d)
 
