@@ -67,3 +67,9 @@ select d.tiposaula.periodo, d.tiposaula.ano_letivo, sum(d.horas)
 from xdsd_tab d
 where d.tiposaula.periodo like '%S'
 group by (d.tiposaula.periodo, d.tiposaula.ano_letivo);
+
+-- f)
+select o.codigo, o.aprovados, o.inscritos
+from xocorrencias_tab o
+where o.ano_letivo = '1995/1996' 
+and o.codigo = 'EM533';
