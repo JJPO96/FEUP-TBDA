@@ -4,13 +4,6 @@
 /** Pergunta 4 **/
 
 -- a)
--- antigo
-select ta.tipo, sum(ta.horas_turno * ta.turnos)
-from xtiposaula_tab ta
-where ta.ocorrencias.ucs.curso = 233
-    and ta.ano_letivo = '2004/2005'
-group by ta.tipo;
--- com metodo
 select ta.tipo, sum(ta.class_hours())
 from xtiposaula_tab ta
 where ta.ocorrencias.ucs.curso = 233
@@ -63,11 +56,6 @@ group by value(t).ano_letivo, value(t).periodo;
 
 
 -- f)
-select o.codigo, o.aprovados, o.inscritos
-from xocorrencias_tab o
-where o.ano_letivo = '1995/1996' 
-and o.codigo = 'EM533';
-
 select doc.nome, value(d).tiposaula.ocorrencias.ucs.designacao
 from xdocentes_tab doc, table(doc.dsd) d
-where doc.nome = '%Abel' /*and value(d).tiposaula.ano_letivo = '2003/2004'*/;
+where regexp_like (doc.nome,  '^Abel.') and value(d).tiposaula.ano_letivo = '2003/2004';
