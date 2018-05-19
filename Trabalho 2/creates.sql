@@ -44,7 +44,8 @@ create type xtiposaula_t as object (
     ocorrencias ref xocorrencias_t,
     turnos      number(4,2),
     n_aulas     number,
-    horas_turno number(4,2));
+    horas_turno number(4,2),
+    map member function total_horas return number);
 /
 create type xdsd_t as object (
    nr           number,
@@ -113,3 +114,11 @@ create table xdocentes_tab of xdocentes_t
 )
     nested table dsd store as xdsd_nt_2;
 /
+
+/** methods */
+create type body xtiposaula_t as 
+    map member function total_horas return number is 
+        begin 
+        return turnos * horas_turno;
+        end total_horas;
+end;

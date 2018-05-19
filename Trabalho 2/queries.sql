@@ -4,8 +4,14 @@
 /** Pergunta 4 **/
 
 -- a)
-
+-- antigo
 select ta.tipo, sum(ta.horas_turno * ta.turnos) as class_hours
+from xtiposaula_tab ta
+where ta.ocorrencias.ucs.curso = 233
+    and ta.ano_letivo = '2004/2005'
+group by ta.tipo;
+-- com metodo
+select ta.tipo, sum(ta.total_horas()) as class_hours
 from xtiposaula_tab ta
 where ta.ocorrencias.ucs.curso = 233
     and ta.ano_letivo = '2004/2005'
