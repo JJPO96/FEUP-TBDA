@@ -53,7 +53,8 @@ create type xdsd_t as object (
    horas        number(4,2),
    fator        number(3,2),
    ordem        number,
-   tiposaula    ref xtiposaula_t);
+   tiposaula    ref xtiposaula_t,
+   map member function factor_hours return number);
 /
 create type xdocentes_t as object(
     nr              number,
@@ -122,6 +123,7 @@ create type body xtiposaula_t as
         return turnos * horas_turno;
         end class_hours;
 end;
+/
 
 create type body xdsd_t as 
     map member function factor_hours return number is 
@@ -129,3 +131,4 @@ create type body xdsd_t as
         return horas * fator;
         end factor_hours;
 end;
+/
