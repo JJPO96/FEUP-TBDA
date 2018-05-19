@@ -45,7 +45,7 @@ create type xtiposaula_t as object (
     turnos      number(4,2),
     n_aulas     number,
     horas_turno number(4,2),
-    map member function total_horas return number);
+    map member function class_hours return number);
 /
 create type xdsd_t as object (
    nr           number,
@@ -117,8 +117,8 @@ create table xdocentes_tab of xdocentes_t
 
 /** methods */
 create type body xtiposaula_t as 
-    map member function total_horas return number is 
+    map member function class_hours return number is 
         begin 
         return turnos * horas_turno;
-        end total_horas;
+        end class_hours;
 end;
