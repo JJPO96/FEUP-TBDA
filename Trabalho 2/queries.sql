@@ -32,10 +32,19 @@ group by (d.tiposaula.codigo)
 having sum(d.tiposaula.class_hours()) <> sum(d.horas);
 
 -- c)
+--antigo
 create or replace view hours as
 select distinct d.docentes.nr as nr , d.docentes.nome as nome, d.tiposaula.tipo as tipoaula, sum(d.horas * d.fator) as total_hours,
 rank() over
 (partition by d.tiposaula.tipo order by sum(d.horas * d.fator) desc) as rank
+from xdsd_tab d
+where d.tiposaula.ano_letivo = '2003/2004' 
+group by (d.docentes.nr, d.docentes.nome,d.tiposaula.tipo);
+--com metodo
+create or replace view hours as
+select distinct d.docentes.nr as nr , d.docentes.nome as nome, d.tiposaula.tipo as tipoaula, sum(d.factor_hours()) as total_hours,
+rank() over
+(partition by d.tiposaula.tipo order by sum(d.factor_hours()) desc) as rank
 from xdsd_tab d
 where d.tiposaula.ano_letivo = '2003/2004' 
 group by (d.docentes.nr, d.docentes.nome,d.tiposaula.tipo);

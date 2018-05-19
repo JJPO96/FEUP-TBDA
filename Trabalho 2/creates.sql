@@ -122,3 +122,10 @@ create type body xtiposaula_t as
         return turnos * horas_turno;
         end class_hours;
 end;
+
+create type body xdsd_t as 
+    map member function factor_hours return number is 
+        begin 
+        return horas * fator;
+        end factor_hours;
+end;
