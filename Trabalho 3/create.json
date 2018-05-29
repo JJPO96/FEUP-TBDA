@@ -1,0 +1,82 @@
+db.createCollection("uses",{autoIndexId : true})
+db.createCollection("activities",{autoIndexId : true})
+db.createCollection("facilities",{autoIndexId : true})
+db.createCollection("roomtypes",{autoIndexId : true})
+db.createCollection("municipalities",{autoIndexId : true})
+db.createCollection("districts",{autoIndexId : true})
+db.createCollection("regions",{autoIndexId : true})
+
+//uses definition
+db.uses.insert({
+    "activities": [
+        {
+            //como fazer?
+        },
+        {
+            //como fazer?
+        },
+    ],
+    "facilities": [
+        {
+            //como fazer?
+        },
+        {
+            //como fazer?
+        },
+    ]
+})
+
+//activities definition
+db.activities.insert({
+    "ref": ,
+    "activity": 
+})
+
+
+//facilities definition
+db.facilities.insert({
+    "id": ,
+    "name": ,
+    "capacity": ,
+    "roomtype": [
+        //talvez embedded reference?
+    ],
+    "address": ,
+    "municipality": [
+        //talvez embedded reference?
+    ]
+})
+
+//roomtypes definition
+db.activities.insert({
+    "roomtype": ,
+    "description": 
+})
+
+//municipalities definition
+db.municipalities.insert({
+    "cod": ,
+    "designation": ,
+    "district": [
+        //talvez embedded reference?
+    ],
+    "region": [
+        //talvez embedded reference?
+    ]
+})
+
+//districts definition
+db.districts.insert({
+    "cod": ,
+    "designation": ,
+    "region": [
+        //talvez embedded reference?
+    ]
+})
+
+//regions definition
+db.regions.insert({
+    "cod": ,
+    "designation": ,
+    NUT: //enumeration
+})
