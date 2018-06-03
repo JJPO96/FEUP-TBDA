@@ -17,23 +17,3 @@ if __name__ == "__main__":
         file.seek(0)
         file.truncate
         file.write(rep)
-    
-'''
-    
-    file = open(sys.argv[1],'r+')
-    file.seek(0)
-    file.truncate
-    file.write(file.replace('},{','}\n{'))
-    file.close()
-
-    dataset_exists = os.path.isfile(dataset_path + sys.argv[1])
-    model_exists = os.path.isfile(models_path + sys.argv[2])
-
-    if(not dataset_exists):
-        print(
-            "There is no dataset on the folder 'dataset' named " + sys.argv[1])
-    elif(not model_exists):
-        print("There is no model on the folder 'models' named " + sys.argv[2])
-    else:
-        Test(sys.argv[1], sys.argv[2])
-'''
