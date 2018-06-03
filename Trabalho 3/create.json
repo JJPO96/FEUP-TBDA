@@ -8,7 +8,7 @@ db.createCollection("regions",{autoIndexId : true})
 
 //uses definition
 db.uses.insert({
-    "activities": [
+    activities: [
         {
             //como fazer?
         },
@@ -16,7 +16,7 @@ db.uses.insert({
             //como fazer?
         },
     ],
-    "facilities": [
+    facilities: [
         {
             //como fazer?
         },
@@ -28,55 +28,60 @@ db.uses.insert({
 
 //activities definition
 db.activities.insert({
-    "ref": ,
-    "activity": 
+    ref: ,
+    activity: 
 })
 
 
 //facilities definition
 db.facilities.insert({
-    "id": ,
-    "name": ,
-    "capacity": ,
-    "roomtype": [
+    id: ,
+    name: ,
+    capacity: ,
+    roomtype: [
         //talvez embedded reference?
     ],
-    "address": ,
-    "municipality": [
+    address: ,
+    municipality: [
         //talvez embedded reference?
     ]
 })
 
 //roomtypes definition
 db.activities.insert({
-    "roomtype": ,
-    "description": 
+    roomtype: ,
+    description: 
 })
 
 //municipalities definition
 db.municipalities.insert({
-    "cod": ,
-    "designation": ,
-    "district": [
+    cod: ,
+    designation: ,
+    district: [
         //talvez embedded reference?
     ],
-    "region": [
+    region: [
         //talvez embedded reference?
     ]
 })
 
 //districts definition
 db.districts.insert({
-    "cod": ,
-    "designation": ,
-    "region": [
+    cod: ,
+    designation: ,
+    region: [
         //talvez embedded reference?
     ]
 })
 
 //regions definition
 db.regions.insert({
-    "cod": ,
-    "designation": ,
-    NUT: //enumeration
+    cod: ,
+    designation: ,
+    NUT: [
+        "Continente",
+        "Açores",
+        "Madeira"
+    ]
 })
+
