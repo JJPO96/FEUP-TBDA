@@ -7,81 +7,67 @@ db.createCollection("districts",{autoIndexId : true})
 db.createCollection("regions",{autoIndexId : true})
 
 //uses definition
-db.uses.insert({
-    activities: [
-        {
-            //como fazer?
-        },
-        {
-            //como fazer?
-        },
-    ],
-    facilities: [
-        {
-            //como fazer?
-        },
-        {
-            //como fazer?
-        },
-    ]
-})
+{
+    id: {type: Number, required: true, unique: true},
+    ref: {type: Number, required: true, unique: true}
+}
 
 //activities definition
-db.activities.insert({
-    ref: ,
-    activity: 
-})
+{
+    ref: {type: Number, required: true, unique: true},
+    activity: {type: String, required: true}
+}
 
 
 //facilities definition
-db.facilities.insert({
-    id: ,
-    name: ,
-    capacity: ,
+{
+    id: {type: Number, required: true, unique: true},
+    name: {type: String, required: true},
+    capacity: {type: Number, required: true},
     roomtype: [
-        //talvez embedded reference?
+        // referenciar? sure, mas como?
     ],
-    address: ,
+    address: {type: String, required: true},
     municipality: [
-        //talvez embedded reference?
+       // referenciar? sure, mas como?
     ]
-})
+}
 
 //roomtypes definition
-db.activities.insert({
-    roomtype: ,
-    description: 
-})
+{
+    roomtype: {type: Number, required: true, unique: true},
+    description:  {type: String, required: true}
+}
 
 //municipalities definition
-db.municipalities.insert({
-    cod: ,
-    designation: ,
+{
+    cod: {type: Number, required: true, unique: true},
+    designation: {type: String, required: true},
     district: [
-        //talvez embedded reference?
+        // referenciar? sure, mas como?
     ],
     region: [
-        //talvez embedded reference?
+        // referenciar? sure, mas como?
     ]
-})
+)
 
 //districts definition
-db.districts.insert({
-    cod: ,
-    designation: ,
+{
+    cod: {type: Number, required: true, unique: true},
+    designation: {type: String, required: true},
     region: [
-        //talvez embedded reference?
+        cod // referenciar? sure, mas como?
     ]
-})
+}
 
 //regions definition
-db.regions.insert({
-    cod: ,
-    designation: ,
+{
+    cod: {type: Number, required: false, unique: true},
+    designation: {type: String, required: false},
     NUT: [
         "Continente",
         "Açores",
         "Madeira"
-    ]
-})
+    ] //não sei como representar isto enum?
+}
 
