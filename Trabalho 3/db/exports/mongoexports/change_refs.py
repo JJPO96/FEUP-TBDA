@@ -112,7 +112,7 @@ if __name__ == "__main__":
     ati_data = '[' + ati_data + ']'
     ati_json = json.loads(ati_data)
     ati_f.close()
-
+'''
     for uso in uso_json:
         if 'concelho' in uso:
             if isinstance(uso['concelho'],int):
@@ -124,14 +124,14 @@ if __name__ == "__main__":
                 for tip in tip_json:
                     if tip['tipo'] == uso['tipo']:
                         uso['tipo'] = tip['_id']
-
     uso_data = json.dumps(uso_json, ensure_ascii=False)[1:-1].replace('}, {','}\n{')
 
     # save usos with reference to recinto and to atividade
-    uso_out = open('imports/usointosR.json','w',encoding='utf8')
+    uso_out = open('imports/usosR.json','w',encoding='utf8')
     uso_out.seek(0)
     uso_out.truncate
     uso_out.write(uso_data)
+'''
 
     
 
