@@ -1,6 +1,6 @@
-FEUP-TBDA
+# FEUP-TBDA
 
-##Trabalho 3
+## Trabalho 3
 Inside Trabalho 3 run the following commands
 ```
 cd .\db\exports\
