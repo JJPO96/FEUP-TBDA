@@ -21,9 +21,11 @@ if __name__ == "__main__":
     for dist in dist_json:
         if 'regiao' in dist:
             if isinstance(dist['regiao'],int):
+                print(dist)
                 for reg in reg_json:
                     if reg['cod'] == dist['regiao']:
-                        dist['regiao'] = reg['_id']
+                        dist['regiao'] = reg
+                        print(reg)
     
     dist_data = json.dumps(dist_json, ensure_ascii=False)[1:-1].replace('}, {','}\n{')
     
@@ -46,12 +48,12 @@ if __name__ == "__main__":
             if isinstance(conc['regiao'],int):
                 for reg in reg_json:
                     if reg['cod'] == conc['regiao']:
-                        conc['regiao'] = reg['_id']
+                        conc['regiao'] = reg
         if 'distrito' in conc:
             if isinstance(conc['distrito'],int):
                 for dist in dist_json:
                     if dist['cod'] == conc['distrito']:
-                        conc['distrito'] = dist['_id']
+                        conc['distrito'] = dist
 
     conc_data = json.dumps(conc_json, ensure_ascii=False)[1:-1].replace('}, {','}\n{')
 
@@ -82,12 +84,12 @@ if __name__ == "__main__":
             if isinstance(rec['concelho'],int):
                 for conc in conc_json:
                     if conc['cod'] == rec['concelho']:
-                        rec['concelho'] = conc['_id']
+                        rec['concelho'] = conc
         if 'tipo' in rec:
             if isinstance(rec['tipo'],int):
                 for tip in tip_json:
                     if tip['tipo'] == rec['tipo']:
-                        rec['tipo'] = tip['_id']
+                        rec['tipo'] = tip
 
     rec_data = json.dumps(rec_json, ensure_ascii=False)[1:-1].replace('}, {','}\n{')
 
@@ -118,12 +120,12 @@ if __name__ == "__main__":
             if isinstance(uso['id'],int):
                 for rec in rec_json:
                     if rec['id'] == uso['id']:
-                        uso['id'] = rec['_id']
+                        uso['id'] = rec
         if 'ref' in uso:
-            if isinstance(uso['ref'],int):
+            if isinstance(uso['ref'],str):
                 for ati in ati_json:
                     if ati['ref'] == uso['ref']:
-                        uso['ref'] = ati['_id']
+                        uso['ref'] = ati
     uso_data = json.dumps(uso_json, ensure_ascii=False)[1:-1].replace('}, {','}\n{')
 
     # save usos with reference to recinto and to atividade
