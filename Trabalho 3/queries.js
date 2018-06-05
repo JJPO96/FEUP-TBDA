@@ -79,12 +79,34 @@ db.getCollection('recintos').aggregate(
     {
         $group:
         { 
-            _id: {atividade: "$_id.atividade"},
-            quantidade: { $max: "$quantidade"}           
+            _id: "$_id.atividade",
+            quantidade: { $max: "$quantidade"}         
         }
     }
 )
-//e.
 
+//e.
+db.getCollection('concelhos').aggregate(
+    {
+        $lookup:
+        {
+            from: 'recintos',
+            localField: '_id',
+            foreignField: 'concelho._id',
+            as: 'recintos'
+        }
+    }, {
+        $group:
+        {
+            _id: {_id:"$distrito._id", designacao:"$distrito.designacao"},
+            concelhos: { $push: { nome: "$designacao", temRecintos: {$gt: [{ $size: "$recintos" },0]}}}
+        }, 
+    }, {
+        $match:
+        {
+
+        }
+    }
+).toArray()
 
 //f.
