@@ -61,8 +61,29 @@ db.concelhos.count() - db.getCollection('recintos').aggregate(
 ).toArray().length
 
 //d.
-
-
+db.getCollection('recintos').aggregate(   
+    {
+        $unwind: "$atividades" 
+    },
+    {
+        $group:
+        { 
+            _id: { concelho: "$concelho.designacao", atividade: "$atividades"},
+            quantidade:
+            {
+                $sum: 1
+            }
+            
+        }
+    },
+    {
+        $group:
+        { 
+            _id: {atividade: "$_id.atividade"},
+            quizMax: { $max: "$quantidade"}           
+        }
+    }
+)
 //e.
 
 
