@@ -1,4 +1,4 @@
-//a - é suposto mostrar as atividades todas, certo?
+//a
 db.getCollection('recintos').find(
     {
         "tipo":
@@ -8,7 +8,6 @@ db.getCollection('recintos').find(
         "atividades": "teatro"
     },
     {
-        "_id": 1,
         "nome": 1,
         "tipo": 1, 
         "atividades": 1
@@ -52,7 +51,7 @@ db.getCollection('recintos').aggregate(
     {
         $group:
         { 
-            _id: "$concelho._id",
+            _id: "$concelho.designacao",
             quantidade:
             {
                 $sum: 1
