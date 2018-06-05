@@ -9,6 +9,19 @@ if __name__ == "__main__":
     reg_json = json.loads(reg_data)
     reg_f.close()
 
+    for reg in reg_json:
+        reg['_id'] = reg['cod']
+        del reg['cod']
+
+    reg_data = json.dumps(reg_json, ensure_ascii=False)[1:-1].replace('}, {','}\n{')
+
+    # save regioes
+    reg_out = open('imports/regioesR.json','w',encoding='utf8')
+    reg_out.seek(0)
+    reg_out.truncate
+    reg_out.write(reg_data)
+        
+
     # importing distritos
     dist_f = open('distritos.json','r+',encoding='utf8')
     dist_data = dist_f.read()
@@ -22,8 +35,10 @@ if __name__ == "__main__":
         if 'regiao' in dist:
             if isinstance(dist['regiao'],int):
                 for reg in reg_json:
-                    if reg['cod'] == dist['regiao']:
+                    if reg['_id'] == dist['regiao']:
                         dist['regiao'] = reg
+        dist['_id'] = dist['cod']
+        del dist['cod']
     
     dist_data = json.dumps(dist_json, ensure_ascii=False)[1:-1].replace('}, {','}\n{')
     
@@ -45,13 +60,15 @@ if __name__ == "__main__":
         if 'regiao' in conc:
             if isinstance(conc['regiao'],int):
                 for reg in reg_json:
-                    if reg['cod'] == conc['regiao']:
+                    if reg['_id'] == conc['regiao']:
                         conc['regiao'] = reg
         if 'distrito' in conc:
             if isinstance(conc['distrito'],int):
                 for dist in dist_json:
-                    if dist['cod'] == conc['distrito']:
+                    if dist['_id'] == conc['distrito']:
                         conc['distrito'] = dist
+        conc['_id'] = conc['cod']
+        del conc['cod']
 
     conc_data = json.dumps(conc_json, ensure_ascii=False)[1:-1].replace('}, {','}\n{')
 
@@ -81,13 +98,15 @@ if __name__ == "__main__":
         if 'concelho' in rec:
             if isinstance(rec['concelho'],int):
                 for conc in conc_json:
-                    if conc['cod'] == rec['concelho']:
+                    if conc['_id'] == rec['concelho']:
                         rec['concelho'] = conc
         if 'tipo' in rec:
             if isinstance(rec['tipo'],int):
                 for tip in tip_json:
                     if tip['tipo'] == rec['tipo']:
                         rec['tipo'] = tip['descricao']
+        rec['_id'] = rec['id']
+        del rec['id']
 
     rec_data = json.dumps(rec_json, ensure_ascii=False)[1:-1].replace('}, {','}\n{')
 
@@ -115,19 +134,13 @@ if __name__ == "__main__":
     
     
     for uso in uso_json:
-        
         if 'id' in uso:
             if isinstance(uso['id'],int):
                 for rec in rec_json:
                     if 'atividades' not in rec:
                         rec['atividades'] = []
-                    if rec['id'] == uso['id']:
+                    if rec['_id'] == uso['id']:
                         rec['atividades'].append(uso['ref'])
-        '''if 'ref' in uso:
-            if isinstance(uso['ref'],str):
-                for ati in ati_json:
-                    if ati['ref'] == uso['ref']:
-                        uso['ref'] = ati'''
 
     for rec in rec_json:
         for n, i in enumerate(rec['atividades']):
@@ -141,13 +154,5 @@ if __name__ == "__main__":
     rec_out = open('imports/recintosR.json','w',encoding='utf8')
     rec_out.seek(0)
     rec_out.truncate
-    rec_out.write(rec_data)
-
-    uso_data = json.dumps(uso_json, ensure_ascii=False)[1:-1].replace('}, {','}\n{')
-
-    # save usos with reference to recinto and to atividade
-    uso_out = open('imports/usosR.json','w',encoding='utf8')
-    uso_out.seek(0)
-    uso_out.truncate
-    uso_out.write(uso_data)      
+    rec_out.write(rec_data)    
             

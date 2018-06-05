@@ -1,18 +1,18 @@
-{"_id":{"$oid":"5b15e062abf7da6fccbbe434"},"tipo":1,"descricao":"Teatro"}
-{"_id":{"$oid":"5b15e062abf7da6fccbbe436"},"tipo":2,"descricao":"Café concerto"}
-{"_id":{"$oid":"5b15e062abf7da6fccbbe438"},"tipo":3,"descricao":"Sala de associação recreativa e cultural"}
-{"_id":{"$oid":"5b15e062abf7da6fccbbe43a"},"tipo":4,"descricao":"Coliseu"}
-{"_id":{"$oid":"5b15e062abf7da6fccbbe43c"},"tipo":5,"descricao":"Teatro estúdio"}
-{"_id":{"$oid":"5b15e062abf7da6fccbbe43e"},"tipo":6,"descricao":"Auditório cinema"}
-{"_id":{"$oid":"5b15e062abf7da6fccbbe440"},"tipo":7,"descricao":"Auditório"}
-{"_id":{"$oid":"5b15e062abf7da6fccbbe442"},"tipo":8,"descricao":"Outras salas de espetáculo"}
-{"_id":{"$oid":"5b15e062abf7da6fccbbe444"},"tipo":9,"descricao":"Casa de fado"}
-{"_id":{"$oid":"5b15e062abf7da6fccbbe446"},"tipo":10,"descricao":"Anfiteatro ao ar livre"}
-{"_id":{"$oid":"5b15e062abf7da6fccbbe448"},"tipo":11,"descricao":"Praça de touros multiusos"}
-{"_id":{"$oid":"5b15e062abf7da6fccbbe44a"},"tipo":12,"descricao":"Recinto multiusos"}
-{"_id":{"$oid":"5b15e062abf7da6fccbbe44c"},"tipo":13,"descricao":"Cinema ao ar livre"}
-{"_id":{"$oid":"5b15e062abf7da6fccbbe44e"},"tipo":14,"descricao":"Cine-Teatro"}
-{"_id":{"$oid":"5b15e062abf7da6fccbbe450"},"tipo":15,"descricao":"Cinema"}
-{"_id":{"$oid":"5b15e062abf7da6fccbbe452"},"tipo":16,"descricao":"Sala de espetáculo de casino"}
-{"_id":{"$oid":"5b15e062abf7da6fccbbe454"},"tipo":17,"descricao":"Cinema isolado"}
-{"_id":{"$oid":"5b15e062abf7da6fccbbe456"},"tipo":18,"descricao":"Praça de touros"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7a98"},"tipo":1,"descricao":"Teatro"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7a9a"},"tipo":2,"descricao":"Café concerto"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7a9c"},"tipo":3,"descricao":"Sala de associação recreativa e cultural"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7a9e"},"tipo":4,"descricao":"Coliseu"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7aa0"},"tipo":5,"descricao":"Teatro estúdio"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7aa2"},"tipo":6,"descricao":"Auditório cinema"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7aa4"},"tipo":7,"descricao":"Auditório"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7aa6"},"tipo":8,"descricao":"Outras salas de espetáculo"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7aa8"},"tipo":9,"descricao":"Casa de fado"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7aaa"},"tipo":10,"descricao":"Anfiteatro ao ar livre"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7aac"},"tipo":11,"descricao":"Praça de touros multiusos"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7aae"},"tipo":12,"descricao":"Recinto multiusos"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7ab0"},"tipo":13,"descricao":"Cinema ao ar livre"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7ab2"},"tipo":14,"descricao":"Cine-Teatro"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7ab4"},"tipo":15,"descricao":"Cinema"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7ab6"},"tipo":16,"descricao":"Sala de espetáculo de casino"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7ab8"},"tipo":17,"descricao":"Cinema isolado"}
+{"_id":{"$oid":"5b15f21aabf7da6fccbe7aba"},"tipo":18,"descricao":"Praça de touros"}

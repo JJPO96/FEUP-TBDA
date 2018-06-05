@@ -1,308 +1,308 @@
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd90c"},"cod":101,"designacao":"Águeda","distrito":1,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd90e"},"cod":102,"designacao":"Albergaria-a-Velha","distrito":1,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd910"},"cod":103,"designacao":"Anadia","distrito":1,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd912"},"cod":104,"designacao":"Arouca","distrito":1,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd914"},"cod":105,"designacao":"Aveiro","distrito":1,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd916"},"cod":106,"designacao":"Castelo de Paiva","distrito":1,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd918"},"cod":107,"designacao":"Espinho","distrito":1,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd91a"},"cod":108,"designacao":"Estarreja","distrito":1,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd91c"},"cod":109,"designacao":"Santa Maria da Feira","distrito":1,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd91e"},"cod":110,"designacao":"Ílhavo","distrito":1,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd920"},"cod":111,"designacao":"Mealhada","distrito":1,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd922"},"cod":112,"designacao":"Murtosa","distrito":1,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd924"},"cod":113,"designacao":"Oliveira de Azemeis","distrito":1,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd926"},"cod":114,"designacao":"Oliveira do Bairro","distrito":1,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd928"},"cod":115,"designacao":"Ovar","distrito":1,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd92a"},"cod":116,"designacao":"São João da Madeira","distrito":1,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd92c"},"cod":117,"designacao":"Sever do Vouga","distrito":1,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd92e"},"cod":118,"designacao":"Vagos","distrito":1,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd930"},"cod":119,"designacao":"Vale de Cambra","distrito":1,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd932"},"cod":201,"designacao":"Aljustrel","distrito":2,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd934"},"cod":202,"designacao":"Almodovar","distrito":2,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd936"},"cod":203,"designacao":"Alvito","distrito":2,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd938"},"cod":204,"designacao":"Barrancos","distrito":2,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd93a"},"cod":205,"designacao":"Beja","distrito":2,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd93c"},"cod":206,"designacao":"Castro Verde","distrito":2,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd93e"},"cod":207,"designacao":"Cuba","distrito":2,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd940"},"cod":208,"designacao":"Ferreira do Alentejo","distrito":2,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd942"},"cod":209,"designacao":"Mértola","distrito":2,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd944"},"cod":210,"designacao":"Moura","distrito":2,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd946"},"cod":211,"designacao":"Odemira","distrito":2,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd948"},"cod":212,"designacao":"Ourique","distrito":2,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd94a"},"cod":213,"designacao":"Serpa","distrito":2,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd94c"},"cod":214,"designacao":"Vidigueira","distrito":2,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd94e"},"cod":301,"designacao":"Amares","distrito":3,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd950"},"cod":302,"designacao":"Barcelos","distrito":3,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd952"},"cod":303,"designacao":"Braga","distrito":3,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd954"},"cod":304,"designacao":"Cabeceiras de Basto","distrito":3,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd956"},"cod":305,"designacao":"Celorico de Basto","distrito":3,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd958"},"cod":306,"designacao":"Esposende","distrito":3,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd95a"},"cod":307,"designacao":"Fafe","distrito":3,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd95c"},"cod":308,"designacao":"Guimarães","distrito":3,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd95e"},"cod":309,"designacao":"Póvoa de Lanhoso","distrito":3,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd960"},"cod":310,"designacao":"Terras de Bouro","distrito":3,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd962"},"cod":311,"designacao":"Vieira do Minho","distrito":3,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd964"},"cod":312,"designacao":"Vila Nova de Famalicão","distrito":3,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd966"},"cod":313,"designacao":"Vila Verde","distrito":3,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd968"},"cod":314,"designacao":"Vizela","distrito":3,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd96a"},"cod":409,"designacao":"Torre de Moncorvo","distrito":4,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd96c"},"cod":401,"designacao":"Alfandega da Fé","distrito":4,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd96e"},"cod":402,"designacao":"Bragança","distrito":4,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd970"},"cod":403,"designacao":"Carrazeda de Ansiães","distrito":4,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd972"},"cod":404,"designacao":"Freixo Espada a Cinta","distrito":4,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd974"},"cod":405,"designacao":"Macedo de Cavaleiros","distrito":4,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd976"},"cod":406,"designacao":"Miranda do Douro","distrito":4,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd978"},"cod":407,"designacao":"Mirandela","distrito":4,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd97a"},"cod":408,"designacao":"Mogadouro","distrito":4,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd97c"},"cod":410,"designacao":"Vila Flor","distrito":4,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd97e"},"cod":411,"designacao":"Vimioso","distrito":4,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd980"},"cod":412,"designacao":"Vinhais","distrito":4,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd982"},"cod":510,"designacao":"Vila de Rei","distrito":5,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd984"},"cod":505,"designacao":"Idanha-a-Nova","distrito":5,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd986"},"cod":501,"designacao":"Belmonte","distrito":5,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd988"},"cod":502,"designacao":"Castelo Branco","distrito":5,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd98a"},"cod":503,"designacao":"Covilhã","distrito":5,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd98c"},"cod":504,"designacao":"Fundão","distrito":5,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd98e"},"cod":506,"designacao":"Oleiros","distrito":5,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd990"},"cod":507,"designacao":"Penamacor","distrito":5,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd992"},"cod":508,"designacao":"Proença-a-Nova","distrito":5,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd994"},"cod":509,"designacao":"Sertã","distrito":5,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd996"},"cod":511,"designacao":"Vila Velha de Rodão","distrito":5,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd998"},"cod":606,"designacao":"Góis","distrito":6,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd99a"},"cod":607,"designacao":"Lousã","distrito":6,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd99c"},"cod":608,"designacao":"Mira","distrito":6,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd99e"},"cod":609,"designacao":"Miranda do Corvo","distrito":6,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9a0"},"cod":610,"designacao":"Montemor-o-Velho","distrito":6,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9a2"},"cod":611,"designacao":"Oliveira do Hospital","distrito":6,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9a4"},"cod":612,"designacao":"Pampilhosa da Serra","distrito":6,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9a6"},"cod":613,"designacao":"Penacova","distrito":6,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9a8"},"cod":614,"designacao":"Penela","distrito":6,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9aa"},"cod":615,"designacao":"Soure","distrito":6,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9ac"},"cod":616,"designacao":"Tábua","distrito":6,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9ae"},"cod":617,"designacao":"Vila Nova de Poiares","distrito":6,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9b0"},"cod":605,"designacao":"Figueira da Foz","distrito":6,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9b2"},"cod":602,"designacao":"Cantanhede","distrito":6,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9b4"},"cod":603,"designacao":"Coimbra","distrito":6,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9b6"},"cod":604,"designacao":"Condeixa-a-Nova","distrito":6,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9b8"},"cod":601,"designacao":"Arganil","distrito":6,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9ba"},"cod":701,"designacao":"Alandroal","distrito":7,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9bc"},"cod":702,"designacao":"Arraiolos","distrito":7,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9be"},"cod":703,"designacao":"Borba","distrito":7,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9c0"},"cod":704,"designacao":"Estremoz","distrito":7,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9c2"},"cod":705,"designacao":"Évora","distrito":7,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9c4"},"cod":707,"designacao":"Mora","distrito":7,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9c6"},"cod":708,"designacao":"Mourão","distrito":7,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9c8"},"cod":709,"designacao":"Portel","distrito":7,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9ca"},"cod":710,"designacao":"Redondo","distrito":7,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9cc"},"cod":711,"designacao":"Reguengos de Monsaraz","distrito":7,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9ce"},"cod":712,"designacao":"Vendas Novas","distrito":7,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9d0"},"cod":706,"designacao":"Montemor-o-Novo","distrito":7,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9d2"},"cod":713,"designacao":"Viana do Alentejo","distrito":7,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9d4"},"cod":714,"designacao":"Vila Viçosa","distrito":7,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9d6"},"cod":801,"designacao":"Albufeira","distrito":8,"regiao":5}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9d8"},"cod":802,"designacao":"Alcoutim","distrito":8,"regiao":5}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9da"},"cod":803,"designacao":"Aljezur","distrito":8,"regiao":5}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9dc"},"cod":804,"designacao":"Castro Marim","distrito":8,"regiao":5}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9de"},"cod":805,"designacao":"Faro","distrito":8,"regiao":5}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9e0"},"cod":806,"designacao":"Lagoa","distrito":8,"regiao":5}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9e2"},"cod":807,"designacao":"Lagos","distrito":8,"regiao":5}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9e4"},"cod":808,"designacao":"Loulé","distrito":8,"regiao":5}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9e6"},"cod":809,"designacao":"Monchique","distrito":8,"regiao":5}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9e8"},"cod":810,"designacao":"Olhão","distrito":8,"regiao":5}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9ea"},"cod":811,"designacao":"Portimão","distrito":8,"regiao":5}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9ec"},"cod":812,"designacao":"São Brás de Alportel","distrito":8,"regiao":5}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9ee"},"cod":813,"designacao":"Silves","distrito":8,"regiao":5}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9f0"},"cod":814,"designacao":"Tavira","distrito":8,"regiao":5}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9f2"},"cod":815,"designacao":"Vila do Bispo","distrito":8,"regiao":5}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9f4"},"cod":816,"designacao":"Vila Real Sto Antonio","distrito":8,"regiao":5}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9f6"},"cod":901,"designacao":"Aguiar da Beira","distrito":9,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9f8"},"cod":902,"designacao":"Almeida","distrito":9,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9fa"},"cod":903,"designacao":"Celorico da Beira","distrito":9,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9fc"},"cod":904,"designacao":"Fig. Castelo Rodrigo","distrito":9,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbd9fe"},"cod":905,"designacao":"Fornos de Algodres","distrito":9,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda00"},"cod":906,"designacao":"Gouveia","distrito":9,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda02"},"cod":907,"designacao":"Guarda","distrito":9,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda04"},"cod":908,"designacao":"Manteigas","distrito":9,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda06"},"cod":909,"designacao":"Meda","distrito":9,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda08"},"cod":910,"designacao":"Pinhel","distrito":9,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda0a"},"cod":911,"designacao":"Sabugal","distrito":9,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda0c"},"cod":912,"designacao":"Seia","distrito":9,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda0e"},"cod":913,"designacao":"Trancoso","distrito":9,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda10"},"cod":914,"designacao":"Vila Nova de Foz Coa","distrito":9,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda12"},"cod":1003,"designacao":"Ansião","distrito":10,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda14"},"cod":1004,"designacao":"Batalha","distrito":10,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda16"},"cod":1005,"designacao":"Bombarral","distrito":10,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda18"},"cod":1006,"designacao":"Caldas da Rainha","distrito":10,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda1a"},"cod":1007,"designacao":"Castanheira de Pera","distrito":10,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda1c"},"cod":1008,"designacao":"Figueiró dos Vinhos","distrito":10,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda1e"},"cod":1009,"designacao":"Leiria","distrito":10,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda20"},"cod":1010,"designacao":"Marinha Grande","distrito":10,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda22"},"cod":1011,"designacao":"Nazaré","distrito":10,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda24"},"cod":1012,"designacao":"Óbidos","distrito":10,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda26"},"cod":1014,"designacao":"Peniche","distrito":10,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda28"},"cod":1015,"designacao":"Pombal","distrito":10,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda2a"},"cod":1016,"designacao":"Porto de Mós","distrito":10,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda2c"},"cod":1013,"designacao":"Pedrogão Grande","distrito":10,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda2e"},"cod":1001,"designacao":"Alcobaça","distrito":10,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda30"},"cod":1002,"designacao":"Alvaiázere","distrito":10,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda32"},"cod":1101,"designacao":"Alenquer","distrito":11,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda34"},"cod":1102,"designacao":"Arruda dos Vinhos","distrito":11,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda36"},"cod":1103,"designacao":"Azambuja","distrito":11,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda38"},"cod":1104,"designacao":"Cadaval","distrito":11,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda3a"},"cod":1105,"designacao":"Cascais","distrito":11,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda3c"},"cod":1106,"designacao":"Lisboa","distrito":11,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda3e"},"cod":1107,"designacao":"Loures","distrito":11,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda40"},"cod":1108,"designacao":"Lourinhã","distrito":11,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda42"},"cod":1109,"designacao":"Mafra","distrito":11,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda44"},"cod":1110,"designacao":"Oeiras","distrito":11,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda46"},"cod":1111,"designacao":"Sintra","distrito":11,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda48"},"cod":1112,"designacao":"Sobral de Monte Agraço","distrito":11,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda4a"},"cod":1113,"designacao":"Torres Vedras","distrito":11,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda4c"},"cod":1114,"designacao":"Vila Franca de Xira","distrito":11,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda4e"},"cod":1115,"designacao":"Amadora","distrito":11,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda50"},"cod":1116,"designacao":"Odivelas","distrito":11,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda52"},"cod":1201,"designacao":"Alter do Chão","distrito":12,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda54"},"cod":1202,"designacao":"Arronches","distrito":12,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda56"},"cod":1203,"designacao":"Avis","distrito":12,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda58"},"cod":1204,"designacao":"Campo Maior","distrito":12,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda5a"},"cod":1205,"designacao":"Castelo de Vide","distrito":12,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda5c"},"cod":1206,"designacao":"Crato","distrito":12,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda5e"},"cod":1207,"designacao":"Elvas","distrito":12,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda60"},"cod":1208,"designacao":"Fronteira","distrito":12,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda62"},"cod":1209,"designacao":"Gavião","distrito":12,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda64"},"cod":1210,"designacao":"Marvão","distrito":12,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda66"},"cod":1211,"designacao":"Monforte","distrito":12,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda68"},"cod":1212,"designacao":"Nisa","distrito":12,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda6a"},"cod":1213,"designacao":"Ponte de Sor","distrito":12,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda6c"},"cod":1214,"designacao":"Portalegre","distrito":12,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda6e"},"cod":1215,"designacao":"Sousel","distrito":12,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda70"},"cod":1301,"designacao":"Amarante","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda72"},"cod":1302,"designacao":"Baião","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda74"},"cod":1303,"designacao":"Felgueiras","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda76"},"cod":1304,"designacao":"Gondomar","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda78"},"cod":1305,"designacao":"Lousada","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda7a"},"cod":1306,"designacao":"Maia","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda7c"},"cod":1307,"designacao":"Marco de Canaveses","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda7e"},"cod":1308,"designacao":"Matosinhos","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda80"},"cod":1309,"designacao":"Paços de Ferreira","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda82"},"cod":1310,"designacao":"Paredes","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda84"},"cod":1311,"designacao":"Penafiel","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda86"},"cod":1312,"designacao":"Porto","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda88"},"cod":1313,"designacao":"Póvoa de Varzim","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda8a"},"cod":1314,"designacao":"Santo Tirso","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda8c"},"cod":1315,"designacao":"Valongo","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda8e"},"cod":1316,"designacao":"Vila do Conde","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda90"},"cod":1317,"designacao":"Vila Nova de Gaia","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda92"},"cod":1318,"designacao":"Trofa","distrito":13,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda94"},"cod":1420,"designacao":"Vila Nova da Barquinha","distrito":14,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda96"},"cod":1421,"designacao":"Ourém","distrito":14,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda98"},"cod":1401,"designacao":"Abrantes","distrito":14,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda9a"},"cod":1402,"designacao":"Alcanena","distrito":14,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda9c"},"cod":1403,"designacao":"Almeirim","distrito":14,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbda9e"},"cod":1404,"designacao":"Alpiarça","distrito":14,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaa0"},"cod":1405,"designacao":"Benavente","distrito":14,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaa2"},"cod":1406,"designacao":"Cartaxo","distrito":14,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaa4"},"cod":1407,"designacao":"Chamusca","distrito":14,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaa6"},"cod":1408,"designacao":"Constancia","distrito":14,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaa8"},"cod":1409,"designacao":"Coruche","distrito":14,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaaa"},"cod":1410,"designacao":"Entroncamento","distrito":14,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaac"},"cod":1411,"designacao":"Ferreira do Zezere","distrito":14,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaae"},"cod":1412,"designacao":"Golegã","distrito":14,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdab0"},"cod":1413,"designacao":"Mação","distrito":14,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdab2"},"cod":1414,"designacao":"Rio Maior","distrito":14,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdab4"},"cod":1415,"designacao":"Salvaterra de Magos","distrito":14,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdab6"},"cod":1416,"designacao":"Santarém","distrito":14,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdab8"},"cod":1417,"designacao":"Sardoal","distrito":14,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaba"},"cod":1418,"designacao":"Tomar","distrito":14,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdabc"},"cod":1419,"designacao":"Torres Novas","distrito":14,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdabe"},"cod":1501,"designacao":"Alcácer do Sal","distrito":15,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdac0"},"cod":1502,"designacao":"Alcochete","distrito":15,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdac2"},"cod":1503,"designacao":"Almada","distrito":15,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdac4"},"cod":1504,"designacao":"Barreiro","distrito":15,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdac6"},"cod":1505,"designacao":"Grandola","distrito":15,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdac8"},"cod":1506,"designacao":"Moita","distrito":15,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaca"},"cod":1507,"designacao":"Montijo","distrito":15,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdacc"},"cod":1508,"designacao":"Palmela","distrito":15,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdace"},"cod":1510,"designacao":"Seixal","distrito":15,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdad0"},"cod":1511,"designacao":"Sesimbra","distrito":15,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdad2"},"cod":1512,"designacao":"Setúbal","distrito":15,"regiao":3}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdad4"},"cod":1513,"designacao":"Sines","distrito":15,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdad6"},"cod":1509,"designacao":"Santiago do Cacém","distrito":15,"regiao":4}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdad8"},"cod":1601,"designacao":"Arcos de Valdevez","distrito":16,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdada"},"cod":1602,"designacao":"Caminha","distrito":16,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdadc"},"cod":1603,"designacao":"Melgaço","distrito":16,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdade"},"cod":1604,"designacao":"Monção","distrito":16,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdae0"},"cod":1605,"designacao":"Paredes de Coura","distrito":16,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdae2"},"cod":1606,"designacao":"Ponte da Barca","distrito":16,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdae4"},"cod":1607,"designacao":"Ponte de Lima","distrito":16,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdae6"},"cod":1608,"designacao":"Valença","distrito":16,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdae8"},"cod":1609,"designacao":"Viana do Castelo","distrito":16,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaea"},"cod":1610,"designacao":"Vila Nova de Cerveira","distrito":16,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaec"},"cod":1701,"designacao":"Alijó","distrito":17,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaee"},"cod":1702,"designacao":"Boticas","distrito":17,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaf0"},"cod":1703,"designacao":"Chaves","distrito":17,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaf2"},"cod":1704,"designacao":"Mesão Frio","distrito":17,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaf4"},"cod":1705,"designacao":"Mondim de Basto","distrito":17,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaf6"},"cod":1706,"designacao":"Montalegre","distrito":17,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdaf8"},"cod":1707,"designacao":"Murça","distrito":17,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdafa"},"cod":1708,"designacao":"Peso da Régua","distrito":17,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdafc"},"cod":1709,"designacao":"Ribeira de Pena","distrito":17,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdafe"},"cod":1710,"designacao":"Sabrosa","distrito":17,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb00"},"cod":1711,"designacao":"Sta Marta de Penaguião","distrito":17,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb02"},"cod":1712,"designacao":"Valpaços","distrito":17,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb04"},"cod":1713,"designacao":"Vila Pouca de Aguiar","distrito":17,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb06"},"cod":1714,"designacao":"Vila Real","distrito":17,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb08"},"cod":1801,"designacao":"Armamar","distrito":18,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb0a"},"cod":1802,"designacao":"Carregal do Sal","distrito":18,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb0c"},"cod":1803,"designacao":"Castro Daire","distrito":18,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb0e"},"cod":1804,"designacao":"Cinfães","distrito":18,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb10"},"cod":1805,"designacao":"Lamego","distrito":18,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb12"},"cod":1806,"designacao":"Mangualde","distrito":18,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb14"},"cod":1807,"designacao":"Moimenta da Beira","distrito":18,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb16"},"cod":1808,"designacao":"Mortágua","distrito":18,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb18"},"cod":1809,"designacao":"Nelas","distrito":18,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb1a"},"cod":1810,"designacao":"Oliveira de Frades","distrito":18,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb1c"},"cod":1811,"designacao":"Penalva do Castelo","distrito":18,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb1e"},"cod":1812,"designacao":"Penedono","distrito":18,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb20"},"cod":1813,"designacao":"Resende","distrito":18,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb22"},"cod":1814,"designacao":"Santa Comba Dão","distrito":18,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb24"},"cod":1815,"designacao":"São João da Pesqueira","distrito":18,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb26"},"cod":1816,"designacao":"São Pedro do Sul","distrito":18,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb28"},"cod":1817,"designacao":"Satão","distrito":18,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb2a"},"cod":1818,"designacao":"Sernancelhe","distrito":18,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb2c"},"cod":1819,"designacao":"Tabuaço","distrito":18,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb2e"},"cod":1820,"designacao":"Tarouca","distrito":18,"regiao":1}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb30"},"cod":1821,"designacao":"Tondela","distrito":18,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb32"},"cod":1822,"designacao":"Vila Nova de Paiva","distrito":18,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb34"},"cod":1823,"designacao":"Viseu","distrito":18,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb36"},"cod":1824,"designacao":"Vouzela","distrito":18,"regiao":2}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb38"},"cod":4101,"designacao":"Vila do Porto","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb3a"},"cod":4201,"designacao":"Lagoa","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb3c"},"cod":4202,"designacao":"Nordeste","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb3e"},"cod":4203,"designacao":"Ponta Delgada","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb40"},"cod":4204,"designacao":"Povoação","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb42"},"cod":4205,"designacao":"Ribeira Grande","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb44"},"cod":4206,"designacao":"Vila Franca do Campo","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb46"},"cod":4301,"designacao":"Angra do Heroismo","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb48"},"cod":4302,"designacao":"Praia da Vitória","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb4a"},"cod":4401,"designacao":"Santa Cruz da Graciosa","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb4c"},"cod":4501,"designacao":"Calheta","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb4e"},"cod":4502,"designacao":"Velas","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb50"},"cod":4601,"designacao":"Lajes do Pico","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb52"},"cod":4602,"designacao":"Madalena","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb54"},"cod":4603,"designacao":"São Roque do Pico","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb56"},"cod":4701,"designacao":"Horta","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb58"},"cod":4801,"designacao":"Lajes das Flores","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb5a"},"cod":4802,"designacao":"Santa Cruz das Flores","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb5c"},"cod":4901,"designacao":"Corvo","distrito":40,"regiao":6}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb5e"},"cod":3108,"designacao":"Santa Cruz","distrito":30,"regiao":7}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb60"},"cod":3109,"designacao":"Santana","distrito":30,"regiao":7}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb62"},"cod":3110,"designacao":"São Vicente","distrito":30,"regiao":7}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb64"},"cod":3201,"designacao":"Porto Santo","distrito":30,"regiao":7}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb66"},"cod":3101,"designacao":"Calheta","distrito":30,"regiao":7}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb68"},"cod":3102,"designacao":"Câmara de Lobos","distrito":30,"regiao":7}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb6a"},"cod":3103,"designacao":"Funchal","distrito":30,"regiao":7}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb6c"},"cod":3104,"designacao":"Machico","distrito":30,"regiao":7}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb6e"},"cod":3105,"designacao":"Ponta do Sol","distrito":30,"regiao":7}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb70"},"cod":3106,"designacao":"Porto Moniz","distrito":30,"regiao":7}
-{"_id":{"$oid":"5b15e05dabf7da6fccbbdb72"},"cod":3107,"designacao":"Ribeira Brava","distrito":30,"regiao":7}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f70"},"cod":101,"designacao":"Águeda","distrito":1,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f72"},"cod":102,"designacao":"Albergaria-a-Velha","distrito":1,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f74"},"cod":103,"designacao":"Anadia","distrito":1,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f76"},"cod":104,"designacao":"Arouca","distrito":1,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f78"},"cod":105,"designacao":"Aveiro","distrito":1,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f7a"},"cod":106,"designacao":"Castelo de Paiva","distrito":1,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f7c"},"cod":107,"designacao":"Espinho","distrito":1,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f7e"},"cod":108,"designacao":"Estarreja","distrito":1,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f80"},"cod":109,"designacao":"Santa Maria da Feira","distrito":1,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f82"},"cod":110,"designacao":"Ílhavo","distrito":1,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f84"},"cod":111,"designacao":"Mealhada","distrito":1,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f86"},"cod":112,"designacao":"Murtosa","distrito":1,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f88"},"cod":113,"designacao":"Oliveira de Azemeis","distrito":1,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f8a"},"cod":114,"designacao":"Oliveira do Bairro","distrito":1,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f8c"},"cod":115,"designacao":"Ovar","distrito":1,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f8e"},"cod":116,"designacao":"São João da Madeira","distrito":1,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f90"},"cod":117,"designacao":"Sever do Vouga","distrito":1,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f92"},"cod":118,"designacao":"Vagos","distrito":1,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f94"},"cod":119,"designacao":"Vale de Cambra","distrito":1,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f96"},"cod":201,"designacao":"Aljustrel","distrito":2,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f98"},"cod":202,"designacao":"Almodovar","distrito":2,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f9a"},"cod":203,"designacao":"Alvito","distrito":2,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f9c"},"cod":204,"designacao":"Barrancos","distrito":2,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6f9e"},"cod":205,"designacao":"Beja","distrito":2,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fa0"},"cod":206,"designacao":"Castro Verde","distrito":2,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fa2"},"cod":207,"designacao":"Cuba","distrito":2,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fa4"},"cod":208,"designacao":"Ferreira do Alentejo","distrito":2,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fa6"},"cod":209,"designacao":"Mértola","distrito":2,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fa8"},"cod":210,"designacao":"Moura","distrito":2,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6faa"},"cod":211,"designacao":"Odemira","distrito":2,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fac"},"cod":212,"designacao":"Ourique","distrito":2,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fae"},"cod":213,"designacao":"Serpa","distrito":2,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fb0"},"cod":214,"designacao":"Vidigueira","distrito":2,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fb2"},"cod":301,"designacao":"Amares","distrito":3,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fb4"},"cod":302,"designacao":"Barcelos","distrito":3,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fb6"},"cod":303,"designacao":"Braga","distrito":3,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fb8"},"cod":304,"designacao":"Cabeceiras de Basto","distrito":3,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fba"},"cod":305,"designacao":"Celorico de Basto","distrito":3,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fbc"},"cod":306,"designacao":"Esposende","distrito":3,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fbe"},"cod":307,"designacao":"Fafe","distrito":3,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fc0"},"cod":308,"designacao":"Guimarães","distrito":3,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fc2"},"cod":309,"designacao":"Póvoa de Lanhoso","distrito":3,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fc4"},"cod":310,"designacao":"Terras de Bouro","distrito":3,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fc6"},"cod":311,"designacao":"Vieira do Minho","distrito":3,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fc8"},"cod":312,"designacao":"Vila Nova de Famalicão","distrito":3,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fca"},"cod":313,"designacao":"Vila Verde","distrito":3,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fcc"},"cod":314,"designacao":"Vizela","distrito":3,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fce"},"cod":409,"designacao":"Torre de Moncorvo","distrito":4,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fd0"},"cod":401,"designacao":"Alfandega da Fé","distrito":4,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fd2"},"cod":402,"designacao":"Bragança","distrito":4,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fd4"},"cod":403,"designacao":"Carrazeda de Ansiães","distrito":4,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fd6"},"cod":404,"designacao":"Freixo Espada a Cinta","distrito":4,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fd8"},"cod":405,"designacao":"Macedo de Cavaleiros","distrito":4,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fda"},"cod":406,"designacao":"Miranda do Douro","distrito":4,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fdc"},"cod":407,"designacao":"Mirandela","distrito":4,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fde"},"cod":408,"designacao":"Mogadouro","distrito":4,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fe0"},"cod":410,"designacao":"Vila Flor","distrito":4,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fe2"},"cod":411,"designacao":"Vimioso","distrito":4,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fe4"},"cod":412,"designacao":"Vinhais","distrito":4,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fe6"},"cod":510,"designacao":"Vila de Rei","distrito":5,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fe8"},"cod":505,"designacao":"Idanha-a-Nova","distrito":5,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fea"},"cod":501,"designacao":"Belmonte","distrito":5,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fec"},"cod":502,"designacao":"Castelo Branco","distrito":5,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6fee"},"cod":503,"designacao":"Covilhã","distrito":5,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6ff0"},"cod":504,"designacao":"Fundão","distrito":5,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6ff2"},"cod":506,"designacao":"Oleiros","distrito":5,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6ff4"},"cod":507,"designacao":"Penamacor","distrito":5,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6ff6"},"cod":508,"designacao":"Proença-a-Nova","distrito":5,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6ff8"},"cod":509,"designacao":"Sertã","distrito":5,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6ffa"},"cod":511,"designacao":"Vila Velha de Rodão","distrito":5,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6ffc"},"cod":606,"designacao":"Góis","distrito":6,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe6ffe"},"cod":607,"designacao":"Lousã","distrito":6,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7000"},"cod":608,"designacao":"Mira","distrito":6,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7002"},"cod":609,"designacao":"Miranda do Corvo","distrito":6,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7004"},"cod":610,"designacao":"Montemor-o-Velho","distrito":6,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7006"},"cod":611,"designacao":"Oliveira do Hospital","distrito":6,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7008"},"cod":612,"designacao":"Pampilhosa da Serra","distrito":6,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe700a"},"cod":613,"designacao":"Penacova","distrito":6,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe700c"},"cod":614,"designacao":"Penela","distrito":6,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe700e"},"cod":615,"designacao":"Soure","distrito":6,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7010"},"cod":616,"designacao":"Tábua","distrito":6,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7012"},"cod":617,"designacao":"Vila Nova de Poiares","distrito":6,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7014"},"cod":605,"designacao":"Figueira da Foz","distrito":6,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7016"},"cod":602,"designacao":"Cantanhede","distrito":6,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7018"},"cod":603,"designacao":"Coimbra","distrito":6,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe701a"},"cod":604,"designacao":"Condeixa-a-Nova","distrito":6,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe701c"},"cod":601,"designacao":"Arganil","distrito":6,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe701e"},"cod":701,"designacao":"Alandroal","distrito":7,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7020"},"cod":702,"designacao":"Arraiolos","distrito":7,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7022"},"cod":703,"designacao":"Borba","distrito":7,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7024"},"cod":704,"designacao":"Estremoz","distrito":7,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7026"},"cod":705,"designacao":"Évora","distrito":7,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7028"},"cod":707,"designacao":"Mora","distrito":7,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe702a"},"cod":708,"designacao":"Mourão","distrito":7,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe702c"},"cod":709,"designacao":"Portel","distrito":7,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe702e"},"cod":710,"designacao":"Redondo","distrito":7,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7030"},"cod":711,"designacao":"Reguengos de Monsaraz","distrito":7,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7032"},"cod":712,"designacao":"Vendas Novas","distrito":7,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7034"},"cod":706,"designacao":"Montemor-o-Novo","distrito":7,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7036"},"cod":713,"designacao":"Viana do Alentejo","distrito":7,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7038"},"cod":714,"designacao":"Vila Viçosa","distrito":7,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe703a"},"cod":801,"designacao":"Albufeira","distrito":8,"regiao":5}
+{"_id":{"$oid":"5b15f215abf7da6fccbe703c"},"cod":802,"designacao":"Alcoutim","distrito":8,"regiao":5}
+{"_id":{"$oid":"5b15f215abf7da6fccbe703e"},"cod":803,"designacao":"Aljezur","distrito":8,"regiao":5}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7040"},"cod":804,"designacao":"Castro Marim","distrito":8,"regiao":5}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7042"},"cod":805,"designacao":"Faro","distrito":8,"regiao":5}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7044"},"cod":806,"designacao":"Lagoa","distrito":8,"regiao":5}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7046"},"cod":807,"designacao":"Lagos","distrito":8,"regiao":5}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7048"},"cod":808,"designacao":"Loulé","distrito":8,"regiao":5}
+{"_id":{"$oid":"5b15f215abf7da6fccbe704a"},"cod":809,"designacao":"Monchique","distrito":8,"regiao":5}
+{"_id":{"$oid":"5b15f215abf7da6fccbe704c"},"cod":810,"designacao":"Olhão","distrito":8,"regiao":5}
+{"_id":{"$oid":"5b15f215abf7da6fccbe704e"},"cod":811,"designacao":"Portimão","distrito":8,"regiao":5}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7050"},"cod":812,"designacao":"São Brás de Alportel","distrito":8,"regiao":5}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7052"},"cod":813,"designacao":"Silves","distrito":8,"regiao":5}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7054"},"cod":814,"designacao":"Tavira","distrito":8,"regiao":5}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7056"},"cod":815,"designacao":"Vila do Bispo","distrito":8,"regiao":5}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7058"},"cod":816,"designacao":"Vila Real Sto Antonio","distrito":8,"regiao":5}
+{"_id":{"$oid":"5b15f215abf7da6fccbe705a"},"cod":901,"designacao":"Aguiar da Beira","distrito":9,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe705c"},"cod":902,"designacao":"Almeida","distrito":9,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe705e"},"cod":903,"designacao":"Celorico da Beira","distrito":9,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7060"},"cod":904,"designacao":"Fig. Castelo Rodrigo","distrito":9,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7062"},"cod":905,"designacao":"Fornos de Algodres","distrito":9,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7064"},"cod":906,"designacao":"Gouveia","distrito":9,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7066"},"cod":907,"designacao":"Guarda","distrito":9,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7068"},"cod":908,"designacao":"Manteigas","distrito":9,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe706a"},"cod":909,"designacao":"Meda","distrito":9,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe706c"},"cod":910,"designacao":"Pinhel","distrito":9,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe706e"},"cod":911,"designacao":"Sabugal","distrito":9,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7070"},"cod":912,"designacao":"Seia","distrito":9,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7072"},"cod":913,"designacao":"Trancoso","distrito":9,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7074"},"cod":914,"designacao":"Vila Nova de Foz Coa","distrito":9,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7076"},"cod":1003,"designacao":"Ansião","distrito":10,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7078"},"cod":1004,"designacao":"Batalha","distrito":10,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe707a"},"cod":1005,"designacao":"Bombarral","distrito":10,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe707c"},"cod":1006,"designacao":"Caldas da Rainha","distrito":10,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe707e"},"cod":1007,"designacao":"Castanheira de Pera","distrito":10,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7080"},"cod":1008,"designacao":"Figueiró dos Vinhos","distrito":10,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7082"},"cod":1009,"designacao":"Leiria","distrito":10,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7084"},"cod":1010,"designacao":"Marinha Grande","distrito":10,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7086"},"cod":1011,"designacao":"Nazaré","distrito":10,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7088"},"cod":1012,"designacao":"Óbidos","distrito":10,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe708a"},"cod":1014,"designacao":"Peniche","distrito":10,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe708c"},"cod":1015,"designacao":"Pombal","distrito":10,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe708e"},"cod":1016,"designacao":"Porto de Mós","distrito":10,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7090"},"cod":1013,"designacao":"Pedrogão Grande","distrito":10,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7092"},"cod":1001,"designacao":"Alcobaça","distrito":10,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7094"},"cod":1002,"designacao":"Alvaiázere","distrito":10,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7096"},"cod":1101,"designacao":"Alenquer","distrito":11,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7098"},"cod":1102,"designacao":"Arruda dos Vinhos","distrito":11,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe709a"},"cod":1103,"designacao":"Azambuja","distrito":11,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe709c"},"cod":1104,"designacao":"Cadaval","distrito":11,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe709e"},"cod":1105,"designacao":"Cascais","distrito":11,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70a0"},"cod":1106,"designacao":"Lisboa","distrito":11,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70a2"},"cod":1107,"designacao":"Loures","distrito":11,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70a4"},"cod":1108,"designacao":"Lourinhã","distrito":11,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70a6"},"cod":1109,"designacao":"Mafra","distrito":11,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70a8"},"cod":1110,"designacao":"Oeiras","distrito":11,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70aa"},"cod":1111,"designacao":"Sintra","distrito":11,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70ac"},"cod":1112,"designacao":"Sobral de Monte Agraço","distrito":11,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70ae"},"cod":1113,"designacao":"Torres Vedras","distrito":11,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70b0"},"cod":1114,"designacao":"Vila Franca de Xira","distrito":11,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70b2"},"cod":1115,"designacao":"Amadora","distrito":11,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70b4"},"cod":1116,"designacao":"Odivelas","distrito":11,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70b6"},"cod":1201,"designacao":"Alter do Chão","distrito":12,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70b8"},"cod":1202,"designacao":"Arronches","distrito":12,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70ba"},"cod":1203,"designacao":"Avis","distrito":12,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70bc"},"cod":1204,"designacao":"Campo Maior","distrito":12,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70be"},"cod":1205,"designacao":"Castelo de Vide","distrito":12,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70c0"},"cod":1206,"designacao":"Crato","distrito":12,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70c2"},"cod":1207,"designacao":"Elvas","distrito":12,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70c4"},"cod":1208,"designacao":"Fronteira","distrito":12,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70c6"},"cod":1209,"designacao":"Gavião","distrito":12,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70c8"},"cod":1210,"designacao":"Marvão","distrito":12,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70ca"},"cod":1211,"designacao":"Monforte","distrito":12,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70cc"},"cod":1212,"designacao":"Nisa","distrito":12,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70ce"},"cod":1213,"designacao":"Ponte de Sor","distrito":12,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70d0"},"cod":1214,"designacao":"Portalegre","distrito":12,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70d2"},"cod":1215,"designacao":"Sousel","distrito":12,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70d4"},"cod":1301,"designacao":"Amarante","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70d6"},"cod":1302,"designacao":"Baião","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70d8"},"cod":1303,"designacao":"Felgueiras","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70da"},"cod":1304,"designacao":"Gondomar","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70dc"},"cod":1305,"designacao":"Lousada","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70de"},"cod":1306,"designacao":"Maia","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70e0"},"cod":1307,"designacao":"Marco de Canaveses","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70e2"},"cod":1308,"designacao":"Matosinhos","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70e4"},"cod":1309,"designacao":"Paços de Ferreira","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70e6"},"cod":1310,"designacao":"Paredes","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70e8"},"cod":1311,"designacao":"Penafiel","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70ea"},"cod":1312,"designacao":"Porto","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70ec"},"cod":1313,"designacao":"Póvoa de Varzim","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70ee"},"cod":1314,"designacao":"Santo Tirso","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70f0"},"cod":1315,"designacao":"Valongo","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70f2"},"cod":1316,"designacao":"Vila do Conde","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70f4"},"cod":1317,"designacao":"Vila Nova de Gaia","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70f6"},"cod":1318,"designacao":"Trofa","distrito":13,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70f8"},"cod":1420,"designacao":"Vila Nova da Barquinha","distrito":14,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70fa"},"cod":1421,"designacao":"Ourém","distrito":14,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70fc"},"cod":1401,"designacao":"Abrantes","distrito":14,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe70fe"},"cod":1402,"designacao":"Alcanena","distrito":14,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7100"},"cod":1403,"designacao":"Almeirim","distrito":14,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7102"},"cod":1404,"designacao":"Alpiarça","distrito":14,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7104"},"cod":1405,"designacao":"Benavente","distrito":14,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7106"},"cod":1406,"designacao":"Cartaxo","distrito":14,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7108"},"cod":1407,"designacao":"Chamusca","distrito":14,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe710a"},"cod":1408,"designacao":"Constancia","distrito":14,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe710c"},"cod":1409,"designacao":"Coruche","distrito":14,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe710e"},"cod":1410,"designacao":"Entroncamento","distrito":14,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7110"},"cod":1411,"designacao":"Ferreira do Zezere","distrito":14,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7112"},"cod":1412,"designacao":"Golegã","distrito":14,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7114"},"cod":1413,"designacao":"Mação","distrito":14,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7116"},"cod":1414,"designacao":"Rio Maior","distrito":14,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7118"},"cod":1415,"designacao":"Salvaterra de Magos","distrito":14,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe711a"},"cod":1416,"designacao":"Santarém","distrito":14,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe711c"},"cod":1417,"designacao":"Sardoal","distrito":14,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe711e"},"cod":1418,"designacao":"Tomar","distrito":14,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7120"},"cod":1419,"designacao":"Torres Novas","distrito":14,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7122"},"cod":1501,"designacao":"Alcácer do Sal","distrito":15,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7124"},"cod":1502,"designacao":"Alcochete","distrito":15,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7126"},"cod":1503,"designacao":"Almada","distrito":15,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7128"},"cod":1504,"designacao":"Barreiro","distrito":15,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe712a"},"cod":1505,"designacao":"Grandola","distrito":15,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe712c"},"cod":1506,"designacao":"Moita","distrito":15,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe712e"},"cod":1507,"designacao":"Montijo","distrito":15,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7130"},"cod":1508,"designacao":"Palmela","distrito":15,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7132"},"cod":1510,"designacao":"Seixal","distrito":15,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7134"},"cod":1511,"designacao":"Sesimbra","distrito":15,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7136"},"cod":1512,"designacao":"Setúbal","distrito":15,"regiao":3}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7138"},"cod":1513,"designacao":"Sines","distrito":15,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe713a"},"cod":1509,"designacao":"Santiago do Cacém","distrito":15,"regiao":4}
+{"_id":{"$oid":"5b15f215abf7da6fccbe713c"},"cod":1601,"designacao":"Arcos de Valdevez","distrito":16,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe713e"},"cod":1602,"designacao":"Caminha","distrito":16,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7140"},"cod":1603,"designacao":"Melgaço","distrito":16,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7142"},"cod":1604,"designacao":"Monção","distrito":16,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7144"},"cod":1605,"designacao":"Paredes de Coura","distrito":16,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7146"},"cod":1606,"designacao":"Ponte da Barca","distrito":16,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7148"},"cod":1607,"designacao":"Ponte de Lima","distrito":16,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe714a"},"cod":1608,"designacao":"Valença","distrito":16,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe714c"},"cod":1609,"designacao":"Viana do Castelo","distrito":16,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe714e"},"cod":1610,"designacao":"Vila Nova de Cerveira","distrito":16,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7150"},"cod":1701,"designacao":"Alijó","distrito":17,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7152"},"cod":1702,"designacao":"Boticas","distrito":17,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7154"},"cod":1703,"designacao":"Chaves","distrito":17,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7156"},"cod":1704,"designacao":"Mesão Frio","distrito":17,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7158"},"cod":1705,"designacao":"Mondim de Basto","distrito":17,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe715a"},"cod":1706,"designacao":"Montalegre","distrito":17,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe715c"},"cod":1707,"designacao":"Murça","distrito":17,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe715e"},"cod":1708,"designacao":"Peso da Régua","distrito":17,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7160"},"cod":1709,"designacao":"Ribeira de Pena","distrito":17,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7162"},"cod":1710,"designacao":"Sabrosa","distrito":17,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7164"},"cod":1711,"designacao":"Sta Marta de Penaguião","distrito":17,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7166"},"cod":1712,"designacao":"Valpaços","distrito":17,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7168"},"cod":1713,"designacao":"Vila Pouca de Aguiar","distrito":17,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe716a"},"cod":1714,"designacao":"Vila Real","distrito":17,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe716c"},"cod":1801,"designacao":"Armamar","distrito":18,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe716e"},"cod":1802,"designacao":"Carregal do Sal","distrito":18,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7170"},"cod":1803,"designacao":"Castro Daire","distrito":18,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7172"},"cod":1804,"designacao":"Cinfães","distrito":18,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7174"},"cod":1805,"designacao":"Lamego","distrito":18,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7176"},"cod":1806,"designacao":"Mangualde","distrito":18,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7178"},"cod":1807,"designacao":"Moimenta da Beira","distrito":18,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe717a"},"cod":1808,"designacao":"Mortágua","distrito":18,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe717c"},"cod":1809,"designacao":"Nelas","distrito":18,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe717e"},"cod":1810,"designacao":"Oliveira de Frades","distrito":18,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7180"},"cod":1811,"designacao":"Penalva do Castelo","distrito":18,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7182"},"cod":1812,"designacao":"Penedono","distrito":18,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7184"},"cod":1813,"designacao":"Resende","distrito":18,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7186"},"cod":1814,"designacao":"Santa Comba Dão","distrito":18,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7188"},"cod":1815,"designacao":"São João da Pesqueira","distrito":18,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe718a"},"cod":1816,"designacao":"São Pedro do Sul","distrito":18,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe718c"},"cod":1817,"designacao":"Satão","distrito":18,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe718e"},"cod":1818,"designacao":"Sernancelhe","distrito":18,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7190"},"cod":1819,"designacao":"Tabuaço","distrito":18,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7192"},"cod":1820,"designacao":"Tarouca","distrito":18,"regiao":1}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7194"},"cod":1821,"designacao":"Tondela","distrito":18,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7196"},"cod":1822,"designacao":"Vila Nova de Paiva","distrito":18,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe7198"},"cod":1823,"designacao":"Viseu","distrito":18,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe719a"},"cod":1824,"designacao":"Vouzela","distrito":18,"regiao":2}
+{"_id":{"$oid":"5b15f215abf7da6fccbe719c"},"cod":4101,"designacao":"Vila do Porto","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe719e"},"cod":4201,"designacao":"Lagoa","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71a0"},"cod":4202,"designacao":"Nordeste","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71a2"},"cod":4203,"designacao":"Ponta Delgada","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71a4"},"cod":4204,"designacao":"Povoação","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71a6"},"cod":4205,"designacao":"Ribeira Grande","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71a8"},"cod":4206,"designacao":"Vila Franca do Campo","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71aa"},"cod":4301,"designacao":"Angra do Heroismo","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71ac"},"cod":4302,"designacao":"Praia da Vitória","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71ae"},"cod":4401,"designacao":"Santa Cruz da Graciosa","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71b0"},"cod":4501,"designacao":"Calheta","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71b2"},"cod":4502,"designacao":"Velas","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71b4"},"cod":4601,"designacao":"Lajes do Pico","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71b6"},"cod":4602,"designacao":"Madalena","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71b8"},"cod":4603,"designacao":"São Roque do Pico","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71ba"},"cod":4701,"designacao":"Horta","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71bc"},"cod":4801,"designacao":"Lajes das Flores","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71be"},"cod":4802,"designacao":"Santa Cruz das Flores","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71c0"},"cod":4901,"designacao":"Corvo","distrito":40,"regiao":6}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71c2"},"cod":3108,"designacao":"Santa Cruz","distrito":30,"regiao":7}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71c4"},"cod":3109,"designacao":"Santana","distrito":30,"regiao":7}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71c6"},"cod":3110,"designacao":"São Vicente","distrito":30,"regiao":7}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71c8"},"cod":3201,"designacao":"Porto Santo","distrito":30,"regiao":7}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71ca"},"cod":3101,"designacao":"Calheta","distrito":30,"regiao":7}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71cc"},"cod":3102,"designacao":"Câmara de Lobos","distrito":30,"regiao":7}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71ce"},"cod":3103,"designacao":"Funchal","distrito":30,"regiao":7}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71d0"},"cod":3104,"designacao":"Machico","distrito":30,"regiao":7}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71d2"},"cod":3105,"designacao":"Ponta do Sol","distrito":30,"regiao":7}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71d4"},"cod":3106,"designacao":"Porto Moniz","distrito":30,"regiao":7}
+{"_id":{"$oid":"5b15f215abf7da6fccbe71d6"},"cod":3107,"designacao":"Ribeira Brava","distrito":30,"regiao":7}
