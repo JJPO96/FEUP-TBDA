@@ -94,7 +94,8 @@ select district, count(*) as nr_municipalities
 from aux
 group by district;
 
-select nr_mun_with_fac_per_district.district, nr_mun_with_fac_per_district.nr_municipalities
-from nr_municipalities_per_district, nr_mun_with_fac_per_district
+select nr_municipalities_per_district.district, designation
+from nr_municipalities_per_district, nr_mun_with_fac_per_district, gtd8.districts
 where nr_mun_with_fac_per_district.nr_municipalities = nr_municipalities_per_district.nr_municipalities
-    and nr_mun_with_fac_per_district.district = nr_municipalities_per_district.district;
+    and nr_mun_with_fac_per_district.district = nr_municipalities_per_district.district
+    and gtd8.districts.cod = nr_municipalities_per_district.district;
