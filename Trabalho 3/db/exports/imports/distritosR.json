@@ -1,0 +1,20 @@
+{"designacao": "Aveiro", "_id": 1}
+{"designacao": "Beja", "regiao": {"designacao": "Alentejo", "nut1": "Continente", "_id": 4}, "_id": 2}
+{"designacao": "Braga", "regiao": {"designacao": "Norte", "nut1": "Continente", "_id": 1}, "_id": 3}
+{"designacao": "Bragança", "regiao": {"designacao": "Norte", "nut1": "Continente", "_id": 1}, "_id": 4}
+{"designacao": "Castelo Branco", "regiao": {"designacao": "Centro", "nut1": "Continente", "_id": 2}, "_id": 5}
+{"designacao": "Coimbra", "regiao": {"designacao": "Centro", "nut1": "Continente", "_id": 2}, "_id": 6}
+{"designacao": "Évora", "regiao": {"designacao": "Alentejo", "nut1": "Continente", "_id": 4}, "_id": 7}
+{"designacao": "Faro", "regiao": {"designacao": "Algarve", "nut1": "Continente", "_id": 5}, "_id": 8}
+{"designacao": "Guarda", "_id": 9}
+{"designacao": "Leiria", "regiao": {"designacao": "Centro", "nut1": "Continente", "_id": 2}, "_id": 10}
+{"designacao": "Lisboa", "_id": 11}
+{"designacao": "Portalegre", "regiao": {"designacao": "Alentejo", "nut1": "Continente", "_id": 4}, "_id": 12}
+{"designacao": "Porto", "regiao": {"designacao": "Norte", "nut1": "Continente", "_id": 1}, "_id": 13}
+{"designacao": "Santarém", "_id": 14}
+{"designacao": "Setúbal", "_id": 15}
+{"designacao": "Viana do Castelo", "regiao": {"designacao": "Norte", "nut1": "Continente", "_id": 1}, "_id": 16}
+{"designacao": "Vila Real", "regiao": {"designacao": "Norte", "nut1": "Continente", "_id": 1}, "_id": 17}
+{"designacao": "Viseu", "_id": 18}
+{"designacao": "Açores", "regiao": {"designacao": "Açores", "nut1": "Açores", "_id": 6}, "_id": 40}
+{"designacao": "Madeira", "regiao": {"designacao": "Madeira", "nut1": "Madeira", "_id": 7}, "_id": 30}
