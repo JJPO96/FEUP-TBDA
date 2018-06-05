@@ -1,4 +1,4 @@
-//a - é suposto mostrar as atividades tods, certo?
+//a - é suposto mostrar as atividades todas, certo?
 db.getCollection('recintos').find(
     {
         "tipo.descricao":
@@ -40,5 +40,6 @@ db.getCollection('recintos').aggregate(
 )
      
 //c.
+
 //d.
 //e.
