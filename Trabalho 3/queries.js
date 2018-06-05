@@ -15,7 +15,7 @@ db.getCollection('recintos').find(
 )
 
 //b.
-db.getCollection('recintos').aggregate(
+db.getCollection('recintos').aggregate([
     {
         $match: 
         {
@@ -35,10 +35,10 @@ db.getCollection('recintos').aggregate(
             }
         }
     }
-)
+])
      
 //c.
-db.concelhos.count() - db.getCollection('recintos').aggregate(
+db.concelhos.count() - db.getCollection('recintos').aggregate([
     {
         $match: 
         {
@@ -58,10 +58,10 @@ db.concelhos.count() - db.getCollection('recintos').aggregate(
             }
         }
     }
-).toArray().length
+]).toArray().length
 
 //d.
-db.getCollection('recintos').aggregate(   
+db.getCollection('recintos').aggregate([   
     {
         $unwind: "$atividades" 
     },
@@ -83,10 +83,10 @@ db.getCollection('recintos').aggregate(
             quantidade: { $max: "$quantidade"}         
         }
     }
-)
+])
 
 //e.
-db.getCollection('concelhos').aggregate(
+db.getCollection('concelhos').aggregate([
     {
         $lookup:
         {
@@ -104,9 +104,9 @@ db.getCollection('concelhos').aggregate(
     }, {
         $match:
         {
-
+            "concelhos.temRecintos" : true
         }
     }
-).toArray()
+]).toArray()
 
 //f.
