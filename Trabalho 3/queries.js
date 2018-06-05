@@ -110,3 +110,9 @@ db.getCollection('concelhos').aggregate([
 ])
 
 //f.
+db.getCollection('concelhos').find
+(
+	{
+		"regiao.designacao": "Norte"
+	}
+).count()
