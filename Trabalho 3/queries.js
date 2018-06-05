@@ -1,20 +1,22 @@
-//a - falta as cenas relativas a atividades
+//a - é suposto mostrar as atividades tods, certo?
 db.getCollection('recintos').find(
     {
         "tipo.descricao":
         {
             $regex : "touros"
-        }
+        },
+        "atividades": "teatro"
     },
     {
         "id": 1,
         "nome": 1,
         "tipo.descricao": 1, 
+        "atividades": 1,
         _id: 0
     }
 )
 
-//b
+//b.
 db.getCollection('recintos').aggregate(
     {
         $match: 
@@ -36,4 +38,7 @@ db.getCollection('recintos').aggregate(
         }
     }
 )
-      
+     
+//c.
+//d.
+//e.
