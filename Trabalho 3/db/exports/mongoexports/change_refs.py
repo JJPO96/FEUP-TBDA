@@ -87,7 +87,7 @@ if __name__ == "__main__":
             if isinstance(rec['tipo'],int):
                 for tip in tip_json:
                     if tip['tipo'] == rec['tipo']:
-                        rec['tipo'] = tip
+                        rec['tipo'] = tip['descricao']
 
     rec_data = json.dumps(rec_json, ensure_ascii=False)[1:-1].replace('}, {','}\n{')
 
