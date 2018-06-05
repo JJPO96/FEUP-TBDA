@@ -80,7 +80,7 @@ db.getCollection('recintos').aggregate(
         $group:
         { 
             _id: {atividade: "$_id.atividade"},
-            quizMax: { $max: "$quantidade"}           
+            quantidade: { $max: "$quantidade"}           
         }
     }
 )
