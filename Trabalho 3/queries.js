@@ -51,7 +51,7 @@ db.getCollection('recintos').aggregate(
     {
         $group:
         { 
-            _id: "$concelho.designacao",
+            _id: "$concelho._id",
             quantidade:
             {
                 $sum: 1
