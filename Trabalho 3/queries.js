@@ -38,27 +38,27 @@ db.getCollection('recintos').aggregate(
 )
      
 //c.
-db.getCollection('recintos').aggregate(
+db.concelhos.count() - db.getCollection('recintos').aggregate(
     {
         $match: 
         {
             "atividades": 
             {
-                $nin: ["cinema"]
+                $in: ["cinema"]
             }
         }
     },
     {
         $group:
         { 
-            _id: "$concelho._id",
+            _id: "$concelho.designacao",
             quantidade:
             {
                 $sum: 1
             }
         }
     }
-)
+).toArray().length
 
 //d.
 
