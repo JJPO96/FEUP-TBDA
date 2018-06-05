@@ -1,20 +1,20 @@
-{"_id":{"$oid":"5b148f39689866827403f0ea"},"cod":1,"designacao":"Aveiro"}
-{"_id":{"$oid":"5b148f39689866827403f0ec"},"cod":2,"designacao":"Beja","regiao":4}
-{"_id":{"$oid":"5b148f39689866827403f0ee"},"cod":3,"designacao":"Braga","regiao":1}
-{"_id":{"$oid":"5b148f39689866827403f0f0"},"cod":4,"designacao":"Bragança","regiao":1}
-{"_id":{"$oid":"5b148f39689866827403f0f2"},"cod":5,"designacao":"Castelo Branco","regiao":2}
-{"_id":{"$oid":"5b148f39689866827403f0f4"},"cod":6,"designacao":"Coimbra","regiao":2}
-{"_id":{"$oid":"5b148f39689866827403f0f6"},"cod":7,"designacao":"Évora","regiao":4}
-{"_id":{"$oid":"5b148f39689866827403f0f8"},"cod":8,"designacao":"Faro","regiao":5}
-{"_id":{"$oid":"5b148f39689866827403f0fa"},"cod":9,"designacao":"Guarda"}
-{"_id":{"$oid":"5b148f39689866827403f0fc"},"cod":10,"designacao":"Leiria","regiao":2}
-{"_id":{"$oid":"5b148f39689866827403f0fe"},"cod":11,"designacao":"Lisboa"}
-{"_id":{"$oid":"5b148f39689866827403f100"},"cod":12,"designacao":"Portalegre","regiao":4}
-{"_id":{"$oid":"5b148f39689866827403f102"},"cod":13,"designacao":"Porto","regiao":1}
-{"_id":{"$oid":"5b148f39689866827403f104"},"cod":14,"designacao":"Santarém"}
-{"_id":{"$oid":"5b148f39689866827403f106"},"cod":15,"designacao":"Setúbal"}
-{"_id":{"$oid":"5b148f39689866827403f108"},"cod":16,"designacao":"Viana do Castelo","regiao":1}
-{"_id":{"$oid":"5b148f39689866827403f10a"},"cod":17,"designacao":"Vila Real","regiao":1}
-{"_id":{"$oid":"5b148f39689866827403f10c"},"cod":18,"designacao":"Viseu"}
-{"_id":{"$oid":"5b148f39689866827403f10e"},"cod":40,"designacao":"Açores","regiao":6}
-{"_id":{"$oid":"5b148f39689866827403f110"},"cod":30,"designacao":"Madeira","regiao":7}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2dc"},"cod":1,"designacao":"Aveiro"}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2de"},"cod":2,"designacao":"Beja","regiao":4}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2e0"},"cod":3,"designacao":"Braga","regiao":1}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2e2"},"cod":4,"designacao":"Bragança","regiao":1}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2e4"},"cod":5,"designacao":"Castelo Branco","regiao":2}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2e6"},"cod":6,"designacao":"Coimbra","regiao":2}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2e8"},"cod":7,"designacao":"Évora","regiao":4}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2ea"},"cod":8,"designacao":"Faro","regiao":5}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2ec"},"cod":9,"designacao":"Guarda"}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2ee"},"cod":10,"designacao":"Leiria","regiao":2}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2f0"},"cod":11,"designacao":"Lisboa"}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2f2"},"cod":12,"designacao":"Portalegre","regiao":4}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2f4"},"cod":13,"designacao":"Porto","regiao":1}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2f6"},"cod":14,"designacao":"Santarém"}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2f8"},"cod":15,"designacao":"Setúbal"}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2fa"},"cod":16,"designacao":"Viana do Castelo","regiao":1}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2fc"},"cod":17,"designacao":"Vila Real","regiao":1}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba2fe"},"cod":18,"designacao":"Viseu"}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba300"},"cod":40,"designacao":"Açores","regiao":6}
+{"_id":{"$oid":"5b15d3e5abf7da6fccbba302"},"cod":30,"designacao":"Madeira","regiao":7}

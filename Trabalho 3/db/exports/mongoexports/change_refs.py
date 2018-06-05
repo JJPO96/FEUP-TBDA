@@ -21,11 +21,9 @@ if __name__ == "__main__":
     for dist in dist_json:
         if 'regiao' in dist:
             if isinstance(dist['regiao'],int):
-                print(dist)
                 for reg in reg_json:
                     if reg['cod'] == dist['regiao']:
                         dist['regiao'] = reg
-                        print(reg)
     
     dist_data = json.dumps(dist_json, ensure_ascii=False)[1:-1].replace('}, {','}\n{')
     
@@ -114,18 +112,37 @@ if __name__ == "__main__":
     ati_data = '[' + ati_data + ']'
     ati_json = json.loads(ati_data)
     ati_f.close()
-
+    
+    
     for uso in uso_json:
+        
         if 'id' in uso:
             if isinstance(uso['id'],int):
                 for rec in rec_json:
+                    if 'atividades' not in rec:
+                        rec['atividades'] = []
                     if rec['id'] == uso['id']:
-                        uso['id'] = rec
-        if 'ref' in uso:
+                        rec['atividades'].append(uso['ref'])
+        '''if 'ref' in uso:
             if isinstance(uso['ref'],str):
                 for ati in ati_json:
                     if ati['ref'] == uso['ref']:
-                        uso['ref'] = ati
+                        uso['ref'] = ati'''
+
+    for rec in rec_json:
+        for n, i in enumerate(rec['atividades']):
+            for ati in ati_json:
+                if i == ati['ref']:
+                    rec['atividades'][n] = ati['atividade']
+    
+    rec_data = json.dumps(rec_json, ensure_ascii=False)[1:-1].replace('}, {','}\n{')
+
+    # save recintos with reference to concelho and to tipo
+    rec_out = open('imports/recintosR.json','w',encoding='utf8')
+    rec_out.seek(0)
+    rec_out.truncate
+    rec_out.write(rec_data)
+
     uso_data = json.dumps(uso_json, ensure_ascii=False)[1:-1].replace('}, {','}\n{')
 
     # save usos with reference to recinto and to atividade
