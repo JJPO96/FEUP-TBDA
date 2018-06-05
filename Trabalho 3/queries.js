@@ -104,9 +104,9 @@ db.getCollection('concelhos').aggregate([
     }, {
         $match:
         {
-            "concelhos.temRecintos" : true
+            "concelhos" : {"$not":{"$elemMatch":{"temRecintos":false}}}
         }
     }
-]).toArray()
+])
 
 //f.
